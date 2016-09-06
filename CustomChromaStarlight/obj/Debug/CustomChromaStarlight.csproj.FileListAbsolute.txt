@@ -6,3 +6,11 @@ C:\Users\Jason\Documents\GitHub\CustomChromaStarlight\CustomChromaStarlight\Cust
 C:\Users\Jason\Documents\GitHub\CustomChromaStarlight\CustomChromaStarlight\CustomChromaStarlight\obj\Debug\CustomChromaStarlight.csprojResolveAssemblyReference.cache
 C:\Users\Jason\Documents\GitHub\CustomChromaStarlight\CustomChromaStarlight\CustomChromaStarlight\obj\Debug\CustomChromaStarlight.exe
 C:\Users\Jason\Documents\GitHub\CustomChromaStarlight\CustomChromaStarlight\CustomChromaStarlight\obj\Debug\CustomChromaStarlight.pdb
+C:\Users\Jason\Documents\GitHub\CustomChromaStarlight\CustomChromaStarlight\bin\Debug\CustomChromaStarlight.exe.config
+C:\Users\Jason\Documents\GitHub\CustomChromaStarlight\CustomChromaStarlight\obj\Debug\CustomChromaStarlight.exe
+C:\Users\Jason\Documents\GitHub\CustomChromaStarlight\CustomChromaStarlight\obj\Debug\CustomChromaStarlight.pdb
+C:\Users\Jason\Documents\GitHub\CustomChromaStarlight\CustomChromaStarlight\bin\Debug\CustomChromaStarlight.exe
+C:\Users\Jason\Documents\GitHub\CustomChromaStarlight\CustomChromaStarlight\bin\Debug\CustomChromaStarlight.pdb
+C:\Users\Jason\Documents\GitHub\CustomChromaStarlight\CustomChromaStarlight\bin\Debug\Corale.Colore.dll
+C:\Users\Jason\Documents\GitHub\CustomChromaStarlight\CustomChromaStarlight\bin\Debug\Corale.Colore.xml
+C:\Users\Jason\Documents\GitHub\CustomChromaStarlight\CustomChromaStarlight\obj\Debug\CustomChromaStarlight.csprojResolveAssemblyReference.cache
